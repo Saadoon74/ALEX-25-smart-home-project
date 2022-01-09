@@ -1,9 +1,8 @@
 /*
  * timer_driver.h
  *
- * Created: 3/1/2022 2:35:10 PM
+ * Created: 4/1/2022 4:45:10 PM
  *  Author: saad
- */
 
 #ifndef TIMER_DRIVER_H_
 #define TIMER_DRIVER_H

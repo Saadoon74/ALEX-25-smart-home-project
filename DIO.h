@@ -1,16 +1,16 @@
 /*
  * DIO.h
  *
- * Created:  1/1/2022 4:45:10 PM
+ * Created:  4/1/2022 1:45:10 PM
  *  Author: saad
  */ 
 
 
 #ifndef DIO_H_
 #define DIO_H_
-#define F_CPU 8000000UL
+#define F_CPU 8000000ul
 #include <util/delay.h>
-#include "DIO_config_master.h"
+#include "DIO_Slave_cfg.h"
 #include "STD_Types.h"
 
 /*

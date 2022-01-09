@@ -1,7 +1,7 @@
 /*
  * timer_driver.c
  *
- * Created:  4/1/2022 2:43:10 PM
+ * Created:  4/1/2022 5:45:10 PM
  *  Author: saad
  */
 #include "timer_driver.h"
